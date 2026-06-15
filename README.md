@@ -1,86 +1,63 @@
-<h1 align="center">👋 Olá, eu sou Thiago Sales</h1>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-<h3 align="center">
-Desenvolvedor Java | Spring Boot | MySQL | APIs REST
-</h3>
+###
 
-<p align="center">
-🚀 Transformando ideias em código e criando soluções práticas.
-</p>
+<h5 align="center">👋 Olá, eu sou Thiago!<br>Sou desenvolvedor em formação com foco em desenvolvimento back-end com Java e Spring Boot.<br>Gosto de criar projeto práticos, APIs RESTful e soluções que realmente fazem a diferença.</h5>
 
----
+###
 
-# 👨‍💻 Sobre Mim
+<h2 align="left">Linguagem & Framework & Banco Dados</h2>
 
-Sou desenvolvedor em formação com foco em Back-end utilizando Java e Spring Boot.
+###
 
-Atualmente estudo:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
+  <img width="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo"  />
+  <img width="26" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
+</div>
 
-- ☕ Java
-- 🌱 Spring Boot
-- 🗄️ MySQL
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript
-- 🔧 Git e GitHub
+###
 
-Meu objetivo é atuar como Desenvolvedor Java Júnior.
+<h2 align="left">Desenvolvimento Web</h2>
 
----
+###
 
-# 🚀 Tecnologias
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
 
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+###
 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<h3 align="left">Tecnologias mais uso no desenvolvimentos junto com as linguagens.</h3>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+###
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+###
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</p>
-
----
-
-# 📂 Projetos em Destaque
-
-## 🤖 Sistema de Agendamento WhatsApp
-Sistema para automatizar agendamentos utilizando integração com WhatsApp.
-
-## 💅 Bella Nails Landing Page
-Landing page moderna para divulgação de serviços de manicure.
-
-## 👥 Sistema de Gestão de Usuários
-CRUD completo utilizando Java, Spring Boot e MySQL.
-
-## 📊 API de Cálculo IMC
-API REST para cálculo e classificação de IMC.
-
-## 🏢 Sistema de Funcionários
-Cadastro, atualização e gerenciamento de funcionários.
-
----
-
-# 📈 Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
-
----
-
-# 📫 Contato
-
-- 💼 LinkedIn: https://linkedin.com
-- 📧 Email: seuemail@gmail.com
-- 🐙 GitHub: https://github.com/seuusuario
-
----
-
-⭐ Obrigado por visitar meu perfil!
+###
