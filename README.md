@@ -4,7 +4,8 @@
 
 ###
 
-<h1 align="center">👋 Olá, eu sou Thiago!<br>Sou desenvolvedor em formação com foco em desenvolvimento back-end com Java e Spring Boot.<br>Gosto de criar projeto práticos, APIs RESTful e soluções que realmente fazem a diferença.</h1>
+<h1 align="center">👋 Olá, eu sou Thiago!</h1>
+<h3><br>Sou desenvolvedor em formação com foco em desenvolvimento back-end com Java e Spring Boot.<br>Gosto de criar projeto práticos, APIs RESTful e soluções que realmente fazem a diferença.</h3>
 
 ###
 
@@ -38,7 +39,7 @@
 
 ###
 
-<h3 align="left">Tecnologias mais uso no desenvolvimentos junto com as linguagens.</h3>
+<h3 align="left">Tecnologias mais uso desenvolvimento</h3>
 
 ###
 
