@@ -4,7 +4,7 @@
 
 ###
 
-<h5 align="center">👋 Olá, eu sou Thiago!<br>Sou desenvolvedor em formação com foco em desenvolvimento back-end com Java e Spring Boot.<br>Gosto de criar projeto práticos, APIs RESTful e soluções que realmente fazem a diferença.</h5>
+<h1 align="center">👋 Olá, eu sou Thiago!<br>Sou desenvolvedor em formação com foco em desenvolvimento back-end com Java e Spring Boot.<br>Gosto de criar projeto práticos, APIs RESTful e soluções que realmente fazem a diferença.</h1>
 
 ###
 
